@@ -1,0 +1,7 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "João Bittencourt <joaobittencourtd3v@gmail.com>",
+  "license": "MIT"
+}
